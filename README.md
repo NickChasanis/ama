@@ -9,6 +9,7 @@
 <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc"> Read the questions of others</a>
 </h2>
 <p align="center">
+<a href="https://discord.com/invite/3eJPwbrwqB"><img alt="Discord" src="https://img.shields.io/discord/1014893038008549386?logo=Discord"></a>
 <a href="https://twitter.com/ChasanisNickos"><img alt="Twitter" src="https://img.shields.io/twitter/follow/ChasanisNickos.svg?style=social"></a>
 </p>
 <h2 align=center>
